@@ -1,0 +1,252 @@
+.cal-body{
+    border-radius: 5px;
+    background-color: rgb(216, 214, 214);
+    width:500px;
+    margin: auto;
+    margin-top:100px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+#cal-heading{
+    border-radius: 5px;
+    margin: 7px;
+    width: auto;
+    padding:10px;
+    background-color: rgb(0, 10, 5);
+}
+#cal-heading p{    
+    margin:0px;
+    text-align: center;
+    font-size: xx-large;
+    color:rgb(122, 182, 218);
+    
+}
+#result{
+    border-radius: 4px;
+    background-color: rgb(243, 237, 237);
+    margin: 7px;
+    height:70px;
+    margin-bottom: 2px;
+    padding:0px 7px;
+    width: auto;
+}
+#buttons-span{
+
+    height:auto;
+    margin:7px 6px;
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+#div-1,#div-2,#div-3,#div-4,#div-5{
+    height:70px;
+    display: flex;
+    margin: -4px 0px;
+    flex-direction: row;
+}
+#span-1{
+    display: inline-flex;
+    align-items: center;
+    font-size: xx-large;
+    background-color: white;
+    justify-content: center;
+    height:87%;
+    width:25%;
+    margin:1.5px 1.5px;
+}
+#span-2{
+    display: inline-flex;
+    align-items: center;
+    font-size: xx-large;
+    background-color: white;
+    justify-content: center;
+    height:87%;
+    width:25%;
+    margin:1.5px 1.5px;
+
+}
+#span-3{
+    display: inline-flex;
+    align-items: center;
+    font-size: xx-large;
+    background-color: white;
+    justify-content: center;
+    height:87%;
+    width:25%;
+    margin:1.5px 1.5px;
+}
+#span-4{
+    display: inline-flex;
+    align-items: center;
+    font-size: xx-large;
+    background-color: white;
+    justify-content: center;
+    height:87%;
+    width:25%;
+    margin:1.5px 1.5px;
+}
+#span-5{
+    display: inline-flex;
+    align-items: center;
+    font-size: xx-large;
+    background-color: white;
+    justify-content: center;
+    height:87%;
+    width:25%;
+    margin:1.5px 1.5px;
+}
+#span-6{
+    display: inline-flex;
+    align-items: center;
+    font-size: xx-large;
+    background-color: white;
+    justify-content: center;
+    height:87%;
+    width:25%;
+    margin:1.5px 1.5px;
+}
+#span-7{
+    display: inline-flex;
+    align-items: center;
+    font-size: xx-large;
+    background-color: white;
+    justify-content: center;
+    height:87%;
+    width:25%;
+    margin:1.5px 1.5px;
+}
+#span-8{
+    display: inline-flex;
+    align-items: center;
+    font-size: xx-large;
+    background-color: white;
+    justify-content: center;
+    height:87%;
+    width:25%;
+    margin:1.5px 1.5px;
+}
+#span-9{
+    display: inline-flex;
+    align-items: center;
+    font-size: xx-large;
+    background-color: white;
+    justify-content: center;
+    height:87%;
+    width:25%;
+    margin:1.5px 1.5px;
+}
+#span-plus-minus{
+    display: inline-flex;
+    align-items: center;
+    font-size: xx-large;
+    background-color: white;
+    justify-content: center;
+    height:87%;
+    width:25%;
+    margin:1.5px 1.5px;
+}
+#span-percent{
+    display: inline-flex;
+    align-items: center;
+    font-size: xx-large;
+    background-color: white;
+    justify-content: center;
+    height:87%;
+    width:25%;
+    margin:1.5px 1.5px;
+}
+#span-divide{
+    display: inline-flex;
+    align-items: center;
+    font-size: xx-large;
+    background-color: rgb(202, 48, 48);
+    justify-content: center;
+    height:87%;
+    width:25%;
+    margin:1.5px 1.5px;
+}
+#span-multiply{
+    display: inline-flex;
+    align-items: center;
+    font-size: xx-large;
+    background-color: rgb(202, 48, 48);
+    justify-content: center;
+    height:87%;
+    width:25%;
+    margin:1.5px 1.5px;
+}
+#span-minus{
+    display: inline-flex;
+    align-items: center;
+    font-size: xx-large;
+    background-color: rgb(202, 48, 48);
+    justify-content: center;
+    height:87%;
+    width:25%;
+    margin:1.5px 1.5px;
+}
+#span-plus{
+    display: inline-flex;
+    align-items: center;
+    font-size: xx-large;
+    background-color: rgb(202, 48, 48);
+    justify-content: center;
+    height:87%;
+    width:25%;
+    margin:1.5px 1.5px;
+}
+#span-AC{
+    display: inline-flex;
+    align-items: center;
+    font-size: xx-large;
+    background-color: white;
+    justify-content: center;
+    height:87%;
+    width:25%;
+    margin:1.5px 1.5px;
+}
+#span-zero{
+    display: inline-flex;
+    align-items: center;
+    font-size: xx-large;
+    background-color: white;
+    justify-content: center;
+    height:87%;
+    width:50.5%;
+    margin:1.5px 1.5px;
+}
+#span-dot{
+    display: inline-flex;
+    align-items: center;
+    font-size: xx-large;
+    background-color: white;
+    justify-content: center;
+    height:87%;
+    width:25%;
+    margin:1.5px 1.5px;
+}
+#span-equal{
+    display: inline-flex;
+    align-items: center;
+    font-size: xx-large;
+    background-color: rgb(202, 48, 48);
+    justify-content: center;
+    height:87%;
+    width:25%;
+    margin:1.5px 1.5px;
+}
+#result p{
+    text-align: right;
+    font-size: xx-large;
+    margin: 17px 0px;
+}
+#span-1:hover,#span-2:hover,#span-3:hover,#span-4:hover,#span-5:hover,#span-6:hover,#span-7:hover,#span-8:hover,#span-9:hover,#span-AC:hover,#span-plus-minus:hover,#span-percent:hover,#span-zero:hover,#span-dot:hover{
+    background-color: rgb(58, 57, 59);
+    color: rgb(211, 211, 19);
+}
+#span-divide:hover,#span-multiply:hover,#span-minus:hover,#span-plus:hover,#span-equal:hover{
+    background-color: brown;
+}
+
